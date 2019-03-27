@@ -28,7 +28,7 @@ public class PA0 {
 
     // Jugador1
     private static String leerEntrada() {
-        throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
+        throw new UnsupportedOperationException("Todavía no."); //To change body of generated methods, choose Tools | Templates.
     }
 
     //Jugador2
